@@ -1,0 +1,34 @@
+name: a_flutter_practice
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: ^3.5.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  image_picker: ^0.8.5+3
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+#    - assets/cat1.jpeg
+#    - assets/cat2.jpg
+#    - assets/cat3.jpeg
+#    - assets/cat4.jpeg
+#    - assets/cat5.jpg
+
+
+
+
+
